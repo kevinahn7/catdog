@@ -7,6 +7,21 @@ h1 {
   text-align: center;
 }
 
-button {
+#bark, #meow {
   width: 100%;
+}
+
+.small {
+  width: 10%;
+  height: auto;
+}
+
+.delete {
+  float: right;
+}
+
+.box{
+  border: 1px black solid;
+  height: 400px;
+  overflow: scroll;
 }
